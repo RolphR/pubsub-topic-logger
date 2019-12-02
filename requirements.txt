@@ -1,0 +1,3 @@
+google-cloud-pubsub
+google-cloud-logging
+protobuf3-to-dict
